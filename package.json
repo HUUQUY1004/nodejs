@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon  --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUUQUY1004/nodejs.git"
+  },
+  "keywords": [
+    "huuquy",
+    "huuquy20033"
+  ],
+  "author": "Quy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUUQUY1004/nodejs/issues"
+  },
+  "homepage": "https://github.com/HUUQUY1004/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
